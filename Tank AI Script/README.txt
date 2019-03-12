@@ -1,9 +1,0 @@
-Author: Michael Ting
-
-Description:
-A tank AI script using finite state machiens. Designed to be matched up against the scripts of other students when loaded into a parent program. (Parent program not included)
-When it competed in the tournament, it beat out 50 other students and placed 3rd overall
-
-Using:
-	- Python 3.7
-	- pygame 1.9.3
